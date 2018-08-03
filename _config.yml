@@ -1,4 +1,6 @@
 site:
   title: aaa
+page:
+  title: bbb
 show_downloads: true
 theme: jekyll-theme-tactile
