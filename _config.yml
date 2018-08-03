@@ -1,4 +1,4 @@
-site:
+page:
   title: Titulo aqui
 show_downloads: true
 theme: jekyll-theme-tactile
